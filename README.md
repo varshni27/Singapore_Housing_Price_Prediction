@@ -3,11 +3,15 @@ This project focuses on predicting housing prices in Singapore using a dataset s
 
 # Key Features:
 **Feature Selection:** Utilized **ANOVA (Analysis of Variance)** to select the top eight features that significantly impact housing prices.
+
 **Modeling:** Implemented several supervised regression techniques, including:
 1. XGBoost
 2. Linear Regression
 3. Lasso Regression
 4. Ridge Regression
+
+**Data Visualization**: 
+- Performed Exploratory Data Analysis using a variety of data visualization techniques using matplotlib, seaborn (line, bar, pie, historgram charts) to draw insights on the Singapore Housing landscape.
 
 # Feature Contribution Analysis:
 - Applied **Shapley values** to assess the contribution of each feature to the model's predictions.
